@@ -1,9 +1,4 @@
 # LogSim
-
-## Team members
-
-Thomas Yam (cyy33), Maxwell Li (ml2019), Chloe Yiu (ymy23)
-
 ## Introduction
 
 LogSim is a logic simulator software, which is capable of simulating a logic circuit specified using 
@@ -13,8 +8,8 @@ Digital Logic Layout Mapper, a logic circuit description language.
 Run the following commands
 
 ```
-git clone https://github.com/tyamcy/IIA-Logic-Simulator.git
-cd IIA-Logic-Simulator
+git clone https://github.com/Do-it-Myself/LogSim.git
+cd LogSim
 pip install -r requirements.txt
 cd final
 ```
